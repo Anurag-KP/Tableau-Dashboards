@@ -1,2 +1,2 @@
 # Tableau-Dashboards
-This repository contains various dashboards created using Tableau.
+This repository contains various dashboards prepared using Tableau.
